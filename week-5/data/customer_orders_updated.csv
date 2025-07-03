@@ -1,0 +1,101 @@
+customer_id,order_id,order_date,delivery_date,expected_delivery_date,delay_days,status,name,email,region,delayed,delivery_status
+33,1001,2025-05-22,2025-05-25,2025-05-27,0,Delivered,Ishaan,ishaan@gmail.com,West-North,false,Delivered
+35,1002,2025-05-18,2025-05-27,2025-05-23,4,In Transit,Kiara,kiara@gmail.com,North-East,true,Delivered
+100,1003,2025-05-01,2025-05-05,2025-05-06,0,Delivered,Reyanshi,reyanshi@gmail.com,North-East,true,Delivered
+21,1004,2025-05-24,2025-05-25,2025-05-29,0,Delivered,Reyansh,reyansh@gmail.com,Central-East,false,Delivered
+100,1005,2025-05-07,2025-05-16,2025-05-12,4,Pending,Reyanshi,reyanshi@gmail.com,North-East,true,Delivered
+18,1006,2025-05-17,2025-05-22,2025-05-22,0,Delivered,Ishaan,ishaan@gmail.com,West-North,true,Delivered
+11,1007,2025-05-24,2025-05-26,2025-05-29,0,Delivered,Kiara,kiara@gmail.com,South-Central,false,Delivered
+23,1008,2025-05-21,2025-05-31,2025-05-26,5,In Transit,Sai,sai@gmail.com,North-East,true,Delivered
+83,1009,2025-05-03,2025-05-06,2025-05-08,0,Delivered,Vihaan,vihaan@gmail.com,North-East,false,Delivered
+72,1010,2025-05-24,2025-05-26,2025-05-29,0,Delivered,sai,sai@gmail.com,Central-East,false,Delivered
+40,1011,2025-05-27,2025-05-31,2025-06-01,0,Delivered,Saanvi,saanvi@gmail.com,Central-East,true,Delivered
+28,1012,2025-05-25,2025-05-26,2025-05-30,0,Delivered,Kiara,kiara@gmail.com,South-Central,false,Delivered
+29,1013,2025-05-19,2025-05-21,2025-05-24,0,Delivered,Saanvi,saanvi@gmail.com,North-East,false,Delivered
+92,1014,2025-05-16,2025-05-17,2025-05-21,0,Delivered,Myra,myra@gmail.com,East-West,false,Delivered
+89,1015,2025-05-27,2025-06-02,2025-06-01,1,Delivered,Aarav,aarav@gmail.com,South-Central,true,Delivered
+91,1016,2025-05-06,2025-05-12,2025-05-11,1,Delivered,Navya,navya@gmail.com,East-West,true,Delivered
+32,1017,2025-05-16,2025-05-18,2025-05-21,0,Delivered,Aadhya,aadhya@gmail.com,East-West,false,Delivered
+9,1018,2025-05-15,2025-05-20,2025-05-20,0,Delivered,samyuktha,samyukatha@gmail.com,East,true,Delivered
+43,1019,2025-05-17,2025-05-27,2025-05-22,5,Pending,Ira,ira@gmail.com,South-Central,true,Delivered
+89,1020,2025-05-15,2025-05-22,2025-05-20,2,Delivered,Aarav,aarav@gmail.com,South-Central,true,Delivered
+27,1021,2025-05-07,2025-05-15,2025-05-12,3,In Transit,Ira,ira@gmail.com,North-East,true,Delivered
+82,1022,2025-05-13,2025-05-14,2025-05-18,0,Delivered,Aditya,aditya@gmail.com,Central-East,false,Delivered
+77,1023,2025-05-27,2025-05-29,2025-06-01,0,Delivered,Anaya,anaya@gmail.com,South-Central,false,Delivered
+17,1024,2025-05-17,2025-05-20,2025-05-22,0,Delivered,Anika,anika@gmail.com,West-North,false,Delivered
+30,1025,2025-05-11,2025-05-18,2025-05-16,2,Delivered,Diya,diya@gmail.com,West-North,true,Delivered
+69,1026,2025-05-08,2025-05-10,2025-05-13,0,Delivered,Diya,diya@gmail.com,Central-East,false,Delivered
+44,1027,2025-05-11,2025-05-19,2025-05-16,3,Pending,Kiara,kiara@gmail.com,West-North,true,Delivered
+44,1028,2025-05-11,2025-05-21,2025-05-16,5,Pending,Kiara,kiara@gmail.com,West-North,true,Delivered
+58,1029,2025-05-16,2025-05-21,2025-05-21,0,Delivered,Myra,myra@gmail.com,South-Central,true,Delivered
+31,1030,2025-05-10,2025-05-16,2025-05-15,1,Delivered,Vihaan,vihaan@gmail.com,West-North,true,Delivered
+65,1031,2025-05-15,2025-05-21,2025-05-20,1,Delivered,Vihaan,vihaan@gmail.com,Central-East,true,Delivered
+34,1032,2025-05-07,2025-05-13,2025-05-12,1,Delivered,Anika,anika@gmail.com,North-East,true,Delivered
+1,1033,2025-05-03,2025-05-12,2025-05-08,4,Pending,Aaron,aaron@gmail.com,East,true,Delivered
+73,1034,2025-05-02,2025-05-11,2025-05-07,4,In Transit,Aadhya,aadhya@gmail.com,East-West,true,Delivered
+9,1035,2025-05-18,2025-05-27,2025-05-23,4,In Transit,samyuktha,samyukatha@gmail.com,East,true,Delivered
+88,1036,2025-05-20,2025-05-28,2025-05-25,3,In Transit,Vihaan,vihaan@gmail.com,Central-East,true,Delivered
+16,1037,2025-05-15,2025-05-19,2025-05-20,0,Delivered,Ishaan,ishaan@gmail.com,East-West,true,Delivered
+61,1038,2025-05-11,2025-05-16,2025-05-16,0,Delivered,Myra,myra@gmail.com,East-West,true,Delivered
+100,1039,2025-05-09,2025-05-12,2025-05-14,0,Delivered,Reyanshi,reyanshi@gmail.com,North-East,false,Delivered
+49,1040,2025-05-19,2025-05-28,2025-05-24,4,In Transit,Shaurya,shaurya@gmail.com,South-Central,true,Delivered
+1,1041,2025-05-13,2025-05-22,2025-05-18,4,Pending,Aaron,aaron@gmail.com,East,true,Delivered
+99,1042,2025-05-09,2025-05-15,2025-05-14,1,Delivered,Reyansh,reyansh@gmail.com,East-West,true,Delivered
+51,1043,2025-05-18,2025-05-22,2025-05-23,0,Delivered,Aarav,aarav@gmail.com,South-Central,true,Delivered
+39,1044,2025-05-26,2025-06-03,2025-05-31,3,Pending,Anika,anika@gmail.com,East-West,true,Delivered
+42,1045,2025-05-18,2025-05-24,2025-05-23,1,Delivered,Adityan,adityan@gmail.com,North-East,true,Delivered
+62,1046,2025-05-27,2025-06-06,2025-06-01,5,Pending,John,john@gmail.com,East-West,true,Delivered
+60,1047,2025-05-12,2025-05-16,2025-05-17,0,Delivered,Anika,anika@gmail.com,Central-East,true,Delivered
+34,1048,2025-05-17,2025-05-24,2025-05-22,2,Delivered,Anika,anika@gmail.com,North-East,true,Delivered
+60,1049,2025-05-07,2025-05-16,2025-05-12,4,Pending,Anika,anika@gmail.com,Central-East,true,Delivered
+19,1050,2025-05-19,2025-05-21,2025-05-24,0,Delivered,Ira,ira@gmail.com,West-North,false,Delivered
+47,1051,2025-05-13,2025-05-16,2025-05-18,0,Delivered,Anaya,anaya@gmail.com,West-North,false,Delivered
+45,1052,2025-05-02,2025-05-10,2025-05-07,3,In Transit,Krishna,krishna@gmail.com,West-North,true,Delivered
+21,1053,2025-05-07,2025-05-13,2025-05-12,1,Delivered,Reyansh,reyansh@gmail.com,Central-East,true,Delivered
+7,1054,2025-05-01,2025-05-03,2025-05-06,0,Delivered,samie,samie@gmail.com,West,false,Delivered
+16,1055,2025-05-20,2025-05-21,2025-05-25,0,Delivered,Ishaan,ishaan@gmail.com,East-West,false,Delivered
+48,1056,2025-05-13,2025-05-23,2025-05-18,5,Pending,Aarav,aarav@gmail.com,Central-East,true,Delivered
+48,1057,2025-05-04,2025-05-10,2025-05-09,1,Delivered,Aarav,aarav@gmail.com,Central-East,true,Delivered
+55,1058,2025-05-11,2025-05-14,2025-05-16,0,Delivered,Navya,navya@gmail.com,West-North,false,Delivered
+16,1059,2025-05-28,2025-06-05,2025-06-02,3,Pending,Ishaan,ishaan@gmail.com,East-West,true,Delivered
+1,1060,2025-05-21,2025-05-30,2025-05-26,4,Pending,Aaron,aaron@gmail.com,East,true,Delivered
+3,1061,2025-05-07,2025-05-16,2025-05-12,4,Pending,Choki,choki@gmail.com,East,true,Delivered
+39,1062,2025-05-06,2025-05-16,2025-05-11,5,Pending,Anika,anika@gmail.com,East-West,true,Delivered
+57,1063,2025-05-10,2025-05-14,2025-05-15,0,Delivered,Shaurya,shaurya@gmail.com,East-West,true,Delivered
+25,1064,2025-05-13,2025-05-16,2025-05-18,0,Delivered,Sethu,sethu@gmail.com,South-Central,false,Delivered
+2,1065,2025-05-08,2025-05-17,2025-05-13,4,In Transit,Sam,sam@gmail.com,East,true,Delivered
+40,1066,2025-05-17,2025-05-18,2025-05-22,0,Delivered,Saanvi,saanvi@gmail.com,Central-East,false,Delivered
+55,1067,2025-05-17,2025-05-23,2025-05-22,1,Delivered,Navya,navya@gmail.com,West-North,true,Delivered
+42,1068,2025-05-16,2025-05-18,2025-05-21,0,Delivered,Adityan,adityan@gmail.com,North-East,false,Delivered
+44,1069,2025-05-19,2025-05-20,2025-05-24,0,Delivered,Kiara,kiara@gmail.com,West-North,false,Delivered
+17,1070,2025-05-01,2025-05-10,2025-05-06,4,Pending,Anika,anika@gmail.com,West-North,true,Delivered
+8,1071,2025-05-24,2025-05-26,2025-05-29,0,Delivered,bubu,bubu@gmail.com,West,false,Delivered
+50,1072,2025-05-26,2025-06-01,2025-05-31,1,Delivered,Rohit,Rohit@gmail.com,East-West,true,Delivered
+19,1073,2025-05-07,2025-05-09,2025-05-12,0,Delivered,Ira,ira@gmail.com,West-North,false,Delivered
+84,1074,2025-05-02,2025-05-05,2025-05-07,0,Delivered,aarohi,aarohi@gmail.com,Central-East,false,Delivered
+33,1075,2025-05-14,2025-05-18,2025-05-19,0,Delivered,Ishaan,ishaan@gmail.com,West-North,true,Delivered
+72,1076,2025-05-27,2025-05-30,2025-06-01,0,Delivered,sai,sai@gmail.com,Central-East,false,Delivered
+80,1077,2025-05-11,2025-05-15,2025-05-16,0,Delivered,Anika,anika@gmail.com,South-Central,true,Delivered
+37,1078,2025-05-11,2025-05-12,2025-05-16,0,Delivered,Arjun,arjun@gmail.com,East-West,false,Delivered
+6,1079,2025-05-13,2025-05-20,2025-05-18,2,Delivered,dudu,dudu@gmail.com,South,true,Delivered
+13,1080,2025-05-24,2025-05-28,2025-05-29,0,Delivered,Shaurya,shaurya@gmail.com,South-Central,true,Delivered
+20,1081,2025-05-22,2025-05-25,2025-05-27,0,Delivered,Reyansh,reyansh@gmail.com,West-North,false,Delivered
+9,1082,2025-05-20,2025-05-26,2025-05-25,1,Delivered,samyuktha,samyukatha@gmail.com,East,true,Delivered
+77,1083,2025-05-04,2025-05-09,2025-05-09,0,Delivered,Anaya,anaya@gmail.com,South-Central,true,Delivered
+10,1084,2025-05-04,2025-05-14,2025-05-09,5,In Transit,love,love@gmail.com,East,true,Delivered
+83,1085,2025-05-13,2025-05-18,2025-05-18,0,Delivered,Vihaan,vihaan@gmail.com,North-East,true,Delivered
+17,1086,2025-05-15,2025-05-17,2025-05-20,0,Delivered,Anika,anika@gmail.com,West-North,false,Delivered
+89,1087,2025-05-11,2025-05-18,2025-05-16,2,Delivered,Aarav,aarav@gmail.com,South-Central,true,Delivered
+31,1088,2025-05-28,2025-05-30,2025-06-02,0,Delivered,Vihaan,vihaan@gmail.com,West-North,false,Delivered
+71,1089,2025-05-16,2025-05-25,2025-05-21,4,Pending,Shaurya,shaurya@gmail.com,West-North,true,Delivered
+72,1090,2025-05-05,2025-05-14,2025-05-10,4,In Transit,sai,sai@gmail.com,Central-East,true,Delivered
+99,1091,2025-05-03,2025-05-08,2025-05-08,0,Delivered,Reyansh,reyansh@gmail.com,East-West,true,Delivered
+19,1092,2025-05-05,2025-05-07,2025-05-10,0,Delivered,Ira,ira@gmail.com,West-North,false,Delivered
+99,1093,2025-05-09,2025-05-16,2025-05-14,2,Delivered,Reyansh,reyansh@gmail.com,East-West,true,Delivered
+94,1094,2025-05-26,2025-06-01,2025-05-31,1,Delivered,Shaurya,shaurya@gmail.com,West-North,true,Delivered
+79,1095,2025-05-22,2025-05-31,2025-05-27,4,In Transit,pradeepan,pradeepan@gmail.com,South-Central,true,Delivered
+48,1096,2025-05-11,2025-05-16,2025-05-16,0,Delivered,Aarav,aarav@gmail.com,Central-East,true,Delivered
+15,1097,2025-05-25,2025-06-02,2025-05-30,3,In Transit,Krishna,krishna@gmail.com,West-North,true,Delivered
+74,1098,2025-05-04,2025-05-14,2025-05-09,5,Pending,Anika,anika@gmail.com,Central-East,true,Delivered
+17,1099,2025-05-14,2025-05-15,2025-05-19,0,Delivered,Anika,anika@gmail.com,West-North,false,Delivered
+49,1100,2025-05-03,2025-05-04,2025-05-08,0,Delivered,Shaurya,shaurya@gmail.com,South-Central,false,Delivered

@@ -1,5 +1,5 @@
 trigger:
-  - main 
+  - main
 
 pool:
   vmImage: 'ubuntu-latest'
@@ -8,6 +8,7 @@ steps:
   - task: UsePythonVersion@0
     inputs:
       versionSpec: '3.10'
+    displayName: 'Set up Python 3.10'
 
   - script: |
       python -m pip install --upgrade pip
@@ -16,4 +17,4 @@ steps:
 
   - script: |
       python app.py
-    displayName: 'Run delay analysis'
+    displayName: 'Run delay analysis script'
